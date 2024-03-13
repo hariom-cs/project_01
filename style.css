@@ -1,0 +1,27 @@
+
+.child > img {
+    height: 70px;
+    width: 70px;
+  }
+.skills {
+    display: flex;
+}
+li{
+    list-style: none;
+}
+.navbar>nav{
+    display: flex;
+}
+ul{
+    display: flex;
+}
+.main-image>img{
+    width: 1090px;
+    height: 600px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    height: 100px;
+}
